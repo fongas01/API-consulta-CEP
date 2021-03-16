@@ -1,5 +1,5 @@
 const cep = document.querySelector("#cep")
-    /*criando evento*/
+    /*criando eventos*/
 
 const showData = (result) => {
     for (const campo in result) {
